@@ -1,0 +1,19 @@
+#ch,#clr{
+    height:50px;
+    width:100px;
+    font-size: 15px;
+    
+}
+.rect{
+    height:100px;
+    width:200px;
+    background-color: aqua;
+    position:absolute;
+    top:15%;
+}
+.count{
+    text-align: center;
+    -webkit-text-fill-color: black;
+    font-size: 15px;
+    
+}
